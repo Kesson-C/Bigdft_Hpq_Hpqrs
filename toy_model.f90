@@ -17,7 +17,10 @@
 
 !  gp = wp = dp = 8
 !===============================================================================
-
+!Kesson NOTES:
+!Fixed method type( HF-> ALL)
+!Fixed unoccupied #> occupied # corruption
+!
 !===============================!
 !> Toy program to use BigDFT API!
 !===============================!
